@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pig-Pong
 By Lee Mutahi
 
@@ -15,3 +16,6 @@ Ping Pong is a web application that takes a number from a user and returns a ran
 #All coypright reserved to Lee Mutahi 2018.
 
 #Link to web application  https://lee-m-m.github.io/pp-lm/
+=======
+# Ping-Pong-lm
+>>>>>>> 8bec109b4d13a25ce0d4946d9ef137bd9ea72b47
